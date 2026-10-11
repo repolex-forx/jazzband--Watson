@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jazzband/Watson/commit/d9de4fcf3ab74f981c92c7391f4f6887971b9707",
       "git:hexsha": "d9de4fcf3ab74f981c92c7391f4f6887971b9707",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/jazzband/Watson/commit/1c4d8b1e9a0b448f7b9760821a23f3274cc6d70b",
